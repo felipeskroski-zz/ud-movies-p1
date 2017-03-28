@@ -8,10 +8,10 @@ This is the first project of the Udacity Full Stack Web Developer Nanodegree
 ``` python
 Movie(title, storyline, poster_image, youtube_trailer)
 ```
-title -> the movie title
-storyline -> a short plot of the movie
-poster_image -> the poster image url
-youtube_trailer -> the long youtube URL *attention the short URL wont work*
+title -> the movie title <br>
+storyline -> a short plot of the movie <br>
+poster_image -> the poster image url <br>
+youtube_trailer -> the long youtube URL  # **attention the short URL wont work**
 # example of movie class
 
 ``` python
